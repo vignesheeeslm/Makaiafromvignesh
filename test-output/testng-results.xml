@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="10" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="234017" started-at="2018-07-07T07:19:12Z" finished-at="2018-07-07T07:23:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="234017" started-at="2018-07-07T07:19:12Z" finished-at="2018-07-07T07:23:06Z">
+      <class name="lead.pages.CreateLead">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:lead.pages.CreateLead@1494225]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-07-07T07:19:12Z" finished-at="2018-07-07T07:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.CreateLead@1494225]" name="beforeMethod" is-config="true" duration-ms="52198" started-at="2018-07-07T07:19:14Z" finished-at="2018-07-07T07:20:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lead.pages.CreateLead@1494225]" name="createLead" duration-ms="24865" started-at="2018-07-07T07:20:06Z" data-provider="TEST" finished-at="2018-07-07T07:20:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CTS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[W]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ram@acc.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234455]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lead.pages.CreateLead@1494225]" name="afterMethod" is-config="true" duration-ms="1004" started-at="2018-07-07T07:20:31Z" finished-at="2018-07-07T07:20:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.CreateLead@1494225]" name="beforeMethod" is-config="true" duration-ms="37967" started-at="2018-07-07T07:20:32Z" finished-at="2018-07-07T07:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lead.pages.CreateLead@1494225]" name="createLead" duration-ms="41792" started-at="2018-07-07T07:21:10Z" data-provider="TEST" finished-at="2018-07-07T07:21:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Accenture]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sam@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[112333]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lead.pages.CreateLead@1494225]" name="afterMethod" is-config="true" duration-ms="5240" started-at="2018-07-07T07:21:52Z" finished-at="2018-07-07T07:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.CreateLead@1494225]" name="beforeMethod" is-config="true" duration-ms="40466" started-at="2018-07-07T07:21:57Z" finished-at="2018-07-07T07:22:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="createLead(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:lead.pages.CreateLead@1494225]" name="createLead" duration-ms="20724" started-at="2018-07-07T07:22:37Z" data-provider="TEST" finished-at="2018-07-07T07:22:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TCS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhoni]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[G]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dhoni@salem.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[12132123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lead.pages.CreateLead@1494225]" name="afterMethod" is-config="true" duration-ms="3375" started-at="2018-07-07T07:22:58Z" finished-at="2018-07-07T07:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:lead.pages.CreateLead@1494225]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-07-07T07:23:01Z" finished-at="2018-07-07T07:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- lead.pages.CreateLead -->
+      <class name="lead.pages.EditLead">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:lead.pages.EditLead@6451e]" name="beforeSuite" is-config="true" duration-ms="1308" started-at="2018-07-07T07:19:11Z" finished-at="2018-07-07T07:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:lead.pages.EditLead@6451e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-07-07T07:19:12Z" finished-at="2018-07-07T07:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="setValue()[pri:0, instance:lead.pages.CreateLead@1494225]" name="setValue" is-config="true" duration-ms="1" started-at="2018-07-07T07:19:12Z" depends-on-methods="lib.selenium.PreAndPost.beforeTest" finished-at="2018-07-07T07:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValue -->
+        <test-method status="PASS" signature="setValue()[pri:0, instance:lead.pages.EditLead@6451e]" name="setValue" is-config="true" duration-ms="1" started-at="2018-07-07T07:19:12Z" depends-on-methods="lead.pages.CreateLead.setValue, lib.selenium.PreAndPost.beforeTest" finished-at="2018-07-07T07:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValue -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:lead.pages.EditLead@6451e]" name="beforeClass" is-config="true" duration-ms="1" started-at="2018-07-07T07:19:12Z" finished-at="2018-07-07T07:19:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.EditLead@6451e]" name="beforeMethod" is-config="true" duration-ms="62964" started-at="2018-07-07T07:19:14Z" finished-at="2018-07-07T07:20:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="editLead(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.EditLead@6451e]" name="editLead" duration-ms="20960" started-at="2018-07-07T07:20:17Z" data-provider="TEST" finished-at="2018-07-07T07:20:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lead.pages.EditLead@6451e]" name="afterMethod" is-config="true" duration-ms="3495" started-at="2018-07-07T07:20:38Z" finished-at="2018-07-07T07:20:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.EditLead@6451e]" name="beforeMethod" is-config="true" duration-ms="29201" started-at="2018-07-07T07:20:41Z" finished-at="2018-07-07T07:21:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="editLead(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.EditLead@6451e]" name="editLead" duration-ms="20722" started-at="2018-07-07T07:21:10Z" data-provider="TEST" finished-at="2018-07-07T07:21:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lead.pages.EditLead@6451e]" name="afterMethod" is-config="true" duration-ms="2277" started-at="2018-07-07T07:21:31Z" finished-at="2018-07-07T07:21:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.EditLead@6451e]" name="beforeMethod" is-config="true" duration-ms="65037" started-at="2018-07-07T07:21:33Z" finished-at="2018-07-07T07:22:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="editLead(java.lang.String, java.lang.String)[pri:0, instance:lead.pages.EditLead@6451e]" name="editLead" duration-ms="21785" started-at="2018-07-07T07:22:38Z" data-provider="TEST" finished-at="2018-07-07T07:23:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dhoni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dhoni]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLead -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:lead.pages.EditLead@6451e]" name="afterMethod" is-config="true" duration-ms="5756" started-at="2018-07-07T07:23:00Z" finished-at="2018-07-07T07:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:lead.pages.EditLead@6451e]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-07-07T07:23:06Z" finished-at="2018-07-07T07:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:lead.pages.EditLead@6451e]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-07-07T07:23:06Z" finished-at="2018-07-07T07:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:lead.pages.EditLead@6451e]" name="afterSuite" is-config="true" duration-ms="4581" started-at="2018-07-07T07:23:09Z" finished-at="2018-07-07T07:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- lead.pages.EditLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

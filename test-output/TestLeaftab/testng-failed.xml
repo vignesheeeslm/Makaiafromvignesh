@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestLeaftab]">
+  <test thread-count="5" name="Seq(failed)">
+    <classes>
+      <class name="leaf.leads.CreateLead">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterSuite"/>
+          <include name="createLead"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- leaf.leads.CreateLead -->
+      <class name="leaf.leads.EditLead">
+        <methods>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="afterSuite"/>
+          <include name="editLead"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- leaf.leads.EditLead -->
+    </classes>
+  </test> <!-- Seq(failed) -->
+</suite> <!-- Failed suite [TestLeaftab] -->
