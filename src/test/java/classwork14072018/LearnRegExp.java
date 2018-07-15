@@ -29,8 +29,9 @@ public class LearnRegExp {
 		System.out.println(Name.replaceAll("[\\s]+", " "));
 		System.out.println("Extra code");
 		
+		System.out.println("Name is " + Name);
 	
-		System.out.println("Name Is" + Name);
+		
 
 
 
