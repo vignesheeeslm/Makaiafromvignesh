@@ -30,8 +30,7 @@ public class LearnRegExp {
 		System.out.println("Extra code");
 		
 		System.out.println("Name is " + Name);
-		System.out.println("uPDATED Name is " + Name);
-		
+		System.out.println("name was" + Name);	
 		
 
 
