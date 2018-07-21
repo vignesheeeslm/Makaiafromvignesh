@@ -10,7 +10,7 @@
 			<class name="leaf.leads.EditLead" />
 			<class name="leaf.leads.DuplicateLead"></class>
 			<class name="leaf.leads.DeleteLead"></class> -->
-			<class name="lead.pages.EditLead"></class>
+			<!-- <class name="lead.pages.EditLead"></class> -->
 			<class name="lead.pages.CreateLead"></class>
 			<!-- <class name="lead.pages.CreateLead2"></class> -->
 		</classes>
